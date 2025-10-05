@@ -1,6 +1,6 @@
 # JPEG
 *.jpg
-*.jpeg
+#*.jpeg
 *.jpe
 *.jif
 *.jfif
